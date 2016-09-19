@@ -1,2 +1,0 @@
-# MyFirstCSharpProgram
-MyFirstProgram
